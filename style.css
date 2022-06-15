@@ -35,22 +35,34 @@
     color: grey;
 }
 .bag-card img {
-    padding: 50px 50px;
+    padding: 80px 50px;
     border-radius: 10px;
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
     margin-top: 200px;
     margin-left: 30px;   
 }
+.bag-card h4{
+    margin-left: 114px;
+    margin-top: -50px;
+}
+.b-card h4{
+    margin-left: 75px;
+    margin-top: -55px;
+}
+.s-card h4{
+    margin-left: 75px;
+    margin-top: -70px;
+}
 .perfume img{
-    padding: 50px 50px;
+    padding: 80px 50px;
     border-radius: 10px;
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
     margin-top: 60px;
 }
 .shoe img{
-    padding: 50px 50px;
+    padding: 80px 50px;
     border-radius: 10px;
     border: none;
     box-shadow: 5px 5px 10px lightgrey;
